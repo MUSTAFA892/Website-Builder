@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://website-builder-m65j.vercel.app/"
+export const BACKEND_URL = "http://localhost:3000"
